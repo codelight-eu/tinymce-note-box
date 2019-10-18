@@ -1,6 +1,6 @@
 {
   "name": "codelight/tinymce-note-box",
-  "description": "Add notification boxes to WordPress TinyMCE editor",
+  "description": "Add note boxes to WordPress TinyMCE editor",
   "type": "wordpress-plugin",
   "authors": [
       {
